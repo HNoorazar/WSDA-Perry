@@ -348,9 +348,7 @@ slprj/
 *.tif
 *.tiff
 *.TIFF
-*.ipynb
 
 
 #
-*.pdf
 *.docx
